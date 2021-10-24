@@ -4,7 +4,7 @@
 Java, Algorithm, Spring framework.
 <hr />
 <ul>
-  <li>Java + spring boot를 이용한 <u>Backend</u></li>
+  <li>Java + spring을 이용한 <u>Backend</u></li>
   <li>Javascript + react.js를 이용한 <u>Frontend</u></li>
   <li> --> 풀스택 웹개발자가 되고자 합니다.</li>
 </ul>
