@@ -11,7 +11,7 @@ Java, Algorithm, Spring framework.
 <br>
 <br>
 
-_**제 허접한 개인 기술블로그입니닷 https://dksdudgn.tistory.com/ 알고리즘, 자바 관련 개념들, 프레임워크 등의 내용들을 <br>
+_**제 허접한 개인 기술블로그입니닷 https://velog.io/@dksdudgn00 알고리즘, 자바 관련 개념들, 프레임워크 등의 내용들을 <br>
 꾸준히 올려서 코드 복기하며 복습 할 목적으로 개설하였습니다.**_
 <br>
 
