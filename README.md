@@ -16,7 +16,7 @@ _**제 허접한 개인 기술블로그입니닷 https://velog.io/@dksdudgn00 �
 <br>
 
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,JavaScript,Spring)](https://github.com/dksdudgn00)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,MySql,Spring)](https://github.com/dksdudgn00)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksdudgn00)](https://solved.ac/dksdudgn00)
 
