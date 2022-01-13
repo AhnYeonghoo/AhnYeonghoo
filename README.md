@@ -5,10 +5,7 @@
 <hr />
 
 <br>
-<br>
 
-  제 허접한 개인 기술블로그 https://velog.io/@dksdudgn00
-<br>
 
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,Django,Node.js)](https://github.com/dksdudgn00)
