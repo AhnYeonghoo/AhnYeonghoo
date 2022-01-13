@@ -16,7 +16,7 @@
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Python,C,JavaScript,Django,Node.js)](https://github.com/dksdudgn00)
 
-![AhnYeongHoo GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnYeonghoo&theme=dark&show_icons=true?theme=gotham)
+![AhnYeongHoo GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnYeonghoo&theme=merko&show_icons=true?theme=gotham)
 
 
 
