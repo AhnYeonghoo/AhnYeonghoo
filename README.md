@@ -12,11 +12,11 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksdudgn00)](https://solved.ac/dksdudgn00)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnYeonghoo&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnYeonghoo&layout=compact&theme=merko&langs_count=8&hide=Html,Css)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Python,C,JavaScript,Django,Node.js)](https://github.com/dksdudgn00)
 
-![AhnYeonghoo GitHub stats](https://github-readme-stats.vercel.app/api?AhnYeonghoo=anuraghazra&show_icons=true&theme=merko)
+![AhnYeonghoo GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnYeonghoo&count_private=true&theme=merko)
 
 
 
