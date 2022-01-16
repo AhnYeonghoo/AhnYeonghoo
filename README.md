@@ -18,6 +18,7 @@
 
 ![AhnYeonghoo GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnYeonghoo&count_private=true&theme=merko)
 
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=AhnYeonghoo&repo=cosmic_evolve&locale=en)](https://github.com/AhnYeonghoo/cosmic_evolve)
 
 
 
