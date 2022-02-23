@@ -8,7 +8,7 @@
 
 
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,Django,Node.js)](https://github.com/dksdudgn00)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Python,C)](https://github.com/dksdudgn00)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dksdudgn00)](https://solved.ac/dksdudgn00)
 
