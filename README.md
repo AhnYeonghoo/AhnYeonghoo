@@ -50,7 +50,6 @@
 </div>
 
 <br>
-<hr/>
 
 <div align="center">
 
@@ -61,9 +60,7 @@
     
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dksdudgn00)](https://solved.ac/dksdudgn00)
 
-    
-
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=AhnYeonghoo&repo=cosmic_evolve&locale=en)](https://github.com/AhnYeonghoo/cosmic_evolve)
+   
     
 
 </div>
