@@ -52,12 +52,16 @@
 <br>
 
 <div align="center">
+  
+<div align=center><h1>Git Status</h1></div>
 
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnYeonghoo&layout=compact&theme=cobalt&langs_count=8&hide=Html,Css)](https://github.com/anuraghazra/github-readme-stats)
     
 ![AhnYeonghoo GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnYeonghoo&count_private=true&theme=cobalt)
     
+<div align=center><h1>Algorithm</h1></div>
+  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dksdudgn00)](https://solved.ac/dksdudgn00)
 
    
