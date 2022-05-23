@@ -1,4 +1,4 @@
-## 안녕하세요. 컴퓨터공학과 2학년 학부생으로 재학중인 대학생입니다.
+### Hi there 👋 </br> I'm Young-Hoo Ahn, a sophomore in the Department of Computer Science and Engineering at Chungbuk National University.
 
 ### 
 
