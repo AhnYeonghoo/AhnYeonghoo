@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋 </br> I'm Young-Hoo Ahn, a sophomore in the Department of Computer Science and Engineering at Chungbuk National University. I am also an undergraduate research student in the Computer Vision & Robot Vision Lab.
+### Hi there 👋 </br> I'm Young-Hoo Ahn, a sophomore in the Department of Computer Science and Engineering at Chungbuk National University.
 
 
 
