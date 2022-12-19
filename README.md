@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋 </br> I'm Young-Hoo Ahn, a sophomore in the Department of Computer Science and Engineering at Chungbuk National University. and I am an undergraduate student in the robot vision & computer vision lab.
+### Hi there 👋 </br> I'm Young-Hoo Ahn, a sophomore in the Department of Computer Science and Engineering at Chungbuk National University.
 
 
 
@@ -17,13 +17,11 @@
 <div align=center> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-3776AB?style=for-the-badge&logo=Kotlin&logoColor=">
     
   <br>
   
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <br>
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
