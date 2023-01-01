@@ -40,7 +40,7 @@
   
 <div align=center><h1>Git Status</h1></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnYeonghoo&langs_count=8&hide=Html,Css,C++,java,kotlin&theme=cobalt)](https://github.com/AhnYeonghoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnYeonghoo&langs_count=8&hide=Html,Css,C%2B%2B,java,kotlin&theme=cobalt)](https://github.com/AhnYeonghoo/github-readme-stats)
 
 
 
