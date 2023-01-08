@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋 </br> I'm Young-Hoo Ahn, a sophomore in the Department of Computer Science and Engineering at Chungbuk National University. and I'm interested in React.js
+### Hi there 👋 </br> I'm Young-Hoo Ahn, a sophomore in the Department of Computer Science and Engineering at Chungbuk National University. and I'm interested in Java & SpringBoot
 
 
 
