@@ -8,7 +8,7 @@ public class Hello {
     System.out.println("Hello world ! My name is Yeonghoo");
     System.out.println("a sophomore in the Department of Computer Science and Engineering at Chungbuk National University.");
     System.out.println("I've been doing the GitHub 1 commit challenge for a year");
-    System.out.println("and I'm interested in Java & SpringBoot")
+    System.out.println("and I'm interested in Java & SpringBoot");
   }
 }
 ``` 
