@@ -3,14 +3,14 @@
 
  
 
-``` Java
-public class Hello {
-  public static void main(String[] args) {
-    System.out.println("Hello world ! My name is Yeonghoo");
-    System.out.println("a sophomore in the Department of Computer Science and Engineering at Chungbuk National University.");
-    System.out.println("I've been doing the GitHub 1 commit challenge for a year");
-    System.out.println("and I'm interested in Java & SpringBoot");
-  }
+``` cpp
+#include <iostream>
+
+int main() {
+  std::cout << "Hello world ! My name is Yeonghoo" << std::endl;
+  std::cout << "a junior in the Department of Computer Science and Engineering at Chungbuk National University." << std::endl;
+  std::cout << "I've been doing the GitHub 1 commit challenge for a year" << std::endl;
+  std::cout << "And I am currently working as an intern in the robotics lab." << std::endl;
 }
 ``` 
 
