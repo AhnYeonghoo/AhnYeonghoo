@@ -6,7 +6,8 @@
 ``` cpp
 #include <iostream>
 
-int main() {
+int main() 
+{
   std::cout << "Hello world ! My name is Yeonghoo" << std::endl;
   std::cout << "a junior in the Department of Computer Science and Engineering at Chungbuk National University." << std::endl;
   std::cout << "I've been doing the GitHub 1 commit challenge for a year" << std::endl;
