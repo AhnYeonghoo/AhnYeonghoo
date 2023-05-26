@@ -54,7 +54,7 @@ int main()
   
 <div align=center><h1>Git Status</h1></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnYeonghoo&langs_count=8&hide=html,kotlin,css,java,cmake,c%20notebook&theme=cobalt)](https://github.com/AhnYeonghoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnYeonghoo&langs_count=8&hide=html,jupyter notebook,kotlin,css,java,cmake,c%20notebook&theme=cobalt)](https://github.com/AhnYeonghoo/github-readme-stats)
 
 
 
