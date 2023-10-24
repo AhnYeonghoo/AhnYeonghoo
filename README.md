@@ -4,7 +4,6 @@
 
 
 
-
   
 ``` cpp
 #include <iostream>
