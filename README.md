@@ -8,15 +8,16 @@
   
  
 
-``` cpp
-#include <iostream>
+``` c#
+using System;
 
-int main() 
+namespace Self
 {
-  std::cout << "Hello world ! My name is Yeonghoo" << std::endl;
-  std::cout << "a junior in the Department of Computer Science and Engineering at Chungbuk National University." << std::endl;
-  std::cout << "I've been doing the GitHub 1 commit challenge for a year" << std::endl;
-  std::cout << "And I am currently working as an intern in the robotics lab." << std::endl;
+  public static void Main(string[] args)
+  {
+    Console.WriteLine($"I work as a developer of software that detects secondary battery defects," +
+     "and I am working on a fourth-year university course at the same time.");
+  }
 }
 ``` 
 
