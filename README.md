@@ -13,10 +13,13 @@ using System;
 
 namespace Self
 {
-  public static void Main(string[] args)
+  public class Self
   {
-    Console.WriteLine($"I work as a developer of software that detects secondary battery defects," +
-     "and I am working on a fourth-year university course at the same time.");
+    public static void Main(string[] args)
+    {
+      Console.WriteLine($"I work as a developer of software that detects secondary battery defects," +
+       "and I am working on a fourth-year university course at the same time.");
+    }
   }
 }
 ``` 
